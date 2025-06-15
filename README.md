@@ -12,7 +12,6 @@ Short description of your project. What does it do? Why does it exist?
 - [Usage](#usage)
 - [Roadmap / Future Improvements](#roadmap--future-improvements)
 - [Author](#author)
-- [License](#license)
 
 ---
 
